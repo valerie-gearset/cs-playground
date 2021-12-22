@@ -1,3 +1,2 @@
 Hello
-Valerio
 Jason
