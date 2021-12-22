@@ -1,4 +1,0 @@
-Hello
-Jason
-Ben
-Valerio
