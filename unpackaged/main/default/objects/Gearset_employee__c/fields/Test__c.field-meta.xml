@@ -15,6 +15,11 @@
                 <default>false</default>
                 <label>Pie</label>
             </value>
+            <value>
+                <fullName>Salad</fullName>
+                <default>false</default>
+                <label>Salad</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
