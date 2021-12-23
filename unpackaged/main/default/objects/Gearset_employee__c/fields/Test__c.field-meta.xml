@@ -3,7 +3,7 @@
     <fullName>Test__c</fullName>
     <externalId>false</externalId>
     <label>Test</label>
-    <required>false</required>
+    <required>true</required>
     <trackTrending>false</trackTrending>
     <type>Picklist</type>
     <valueSet>
