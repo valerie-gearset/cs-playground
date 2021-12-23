@@ -25,6 +25,11 @@
                 <default>false</default>
                 <label>Chocolate</label>
             </value>
+            <value>
+                <fullName>Water</fullName>
+                <default>false</default>
+                <label>Water</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
