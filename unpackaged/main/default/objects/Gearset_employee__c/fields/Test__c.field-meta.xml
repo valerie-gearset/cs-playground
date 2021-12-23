@@ -11,24 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>A</fullName>
+                <fullName>Pie</fullName>
                 <default>false</default>
-                <label>A</label>
-            </value>
-            <value>
-                <fullName>B</fullName>
-                <default>false</default>
-                <label>B</label>
-            </value>
-            <value>
-                <fullName>C</fullName>
-                <default>false</default>
-                <label>C</label>
-            </value>
-            <value>
-                <fullName>D</fullName>
-                <default>false</default>
-                <label>D</label>
+                <label>Pie</label>
             </value>
         </valueSetDefinition>
     </valueSet>
