@@ -16,6 +16,11 @@
                 <label>Pie</label>
             </value>
             <value>
+                <fullName>Dumpling</fullName>
+                <default>false</default>
+                <label>Dumpling</label>
+            </value>
+            <value>
                 <fullName>Salad</fullName>
                 <default>false</default>
                 <label>Salad</label>
